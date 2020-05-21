@@ -15,6 +15,8 @@
 
 ## [移动中位数 去异常点](04-moving-median/moving-median.ipynb)
 
+## [处理缺失数据-1](05-missing-values-1/missing-values.ipynb)
+
 ## 季节性
 
 ## 简单预测方法

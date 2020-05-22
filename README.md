@@ -17,6 +17,8 @@
 
 ## [处理缺失数据-1](05-missing-values-1/missing-values.ipynb)
 
+## [处理缺失数据-2](05-missing-values-2/missing-values.ipynb)
+
 ## 季节性
 
 ## 简单预测方法

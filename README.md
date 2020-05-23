@@ -19,7 +19,7 @@
 
 ## [处理缺失数据-2](05-missing-values-2/missing-values.ipynb)
 
-## 季节性
+## [简单季节性-1](06-simple-trend-seasonality/simple-trend-seasonality.ipynb)
 
 ## 简单预测方法
 

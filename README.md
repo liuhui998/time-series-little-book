@@ -21,7 +21,7 @@
 
 ## [简单季节性-1](06-simple-trend-seasonality/simple-trend-seasonality.ipynb)
 
-## 简单预测方法
+## [简单预测方法-1](07-simple-forecast/simple-forecast.ipynb)
 
 
 

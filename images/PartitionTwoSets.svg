@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="8 347 627 99" style="enable-background:new 8 347 627 99;" xml:space="preserve">
+<desc>数据拆分为两类：较大规模的训练数据集和较小规模的测试数据集</desc>
+<style type="text/css">
+	.zhpiis-st0{fill:#4285F4;}
+	.zhpiis-st1{fill:#F4B400;}
+	.zhpiis-st2{fill:#424242;}
+	.zhpiis-st3{font-family:'PingFangHK-Medium-B5pc-H';}
+	.zhpiis-st4{font-size:18px;}
+</style>
+<rect x="11.8" y="350.9" class="zhpiis-st0" width="535.9" height="63.3"/>
+<rect x="547.7" y="350.9" class="zhpiis-st1" width="83" height="63.3"/>
+<text transform="matrix(1 0 0 1 252.7131 436.6104)" class="zhpiis-st2 zhpiis-st3 zhpiis-st4">训练集</text>
+<text transform="matrix(1 0 0 1 562.1735 436.6104)" class="zhpiis-st2 zhpiis-st3 zhpiis-st4">测试集</text>
+</svg>

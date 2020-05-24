@@ -23,6 +23,8 @@
 
 ## [朴素预测方法-1](07-naive-method/naive-method.ipynb)
 
+## [朴素预测方法-2](07-naive-method-2/naive-method.ipynb)
+
 
 
 

@@ -23,7 +23,7 @@
 
 ## [朴素预测方法-1](07-naive-method-1/naive-method.ipynb)
 
-## [朴素预测方法-2](07-naive-method-2/naive-method.ipynb)
+## [如何计算预测的准确性-1](08-eval-model-1/eval-model.ipynb)
 
 
 

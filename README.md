@@ -33,10 +33,7 @@
 
 ## [简单指数平滑预测方法](12-simple-exponential-smoothing/simple-exponential-smoothing.ipynb)
 
-
-
-
-
+## [三次指数平滑法（holt-winters）](14-holt-winters-method/holt-winters-method.ipynb)
 
 ## 参考资料
 

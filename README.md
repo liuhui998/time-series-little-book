@@ -29,7 +29,9 @@
 
 ## [移动平均预测方法](10-moving-average-method/moving-average-method.ipynb)
 
-## [指数移动平均（未开始）](11-exponential-moving-average/exponential-moving-average.ipynb)
+## [指数移动平均](11-exponential-moving-average/exponential-moving-average.ipynb)
+
+## [简单指数平滑预测方法](12-simple-exponential-smoothing/simple-exponential-smoothing.ipynb)
 
 
 

@@ -11,7 +11,7 @@
 ## [怎么加载时间序列数据](02-data-load/Load-Time-Series.ipynb)
 
 
-## [移动平均 看趋势](03-moving-average/moving-average.ipynb)
+## [简单移动平均 看趋势](03-moving-average/moving-average.ipynb)
 
 ## [移动中位数 去异常点](04-moving-median/moving-median.ipynb)
 

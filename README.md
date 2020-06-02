@@ -23,14 +23,11 @@
 
 ## [朴素预测方法-1](07-naive-method-1/naive-method.ipynb)
 
-
 ## [如何计算预测的准确性-1](08-eval-model-1/eval-model.ipynb)
 
-## [简单平均预测方法](10-moving-average-method/moving-average-method.ipynb)
+## [简单平均预测方法](09-simple-average-method/simple-average-method.ipynb)
 
-## [简单平均预测方法 （未开始）](09-simple-average-method/simple-average-method.ipynb)
-
-## [移动平均预测方法 （未完成）](10-moving-average-method/moving-average-method.ipynb)
+## [移动平均预测方法](10-moving-average-method/moving-average-method.ipynb)
 
 
 
